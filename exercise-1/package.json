@@ -1,0 +1,14 @@
+{
+  "name": "tanstack-query-exercise-1",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite", "build": "vite build", "preview": "vite preview"},
+  "dependencies": {
+    "@tanstack/react-query": "^5.90.0",
+    "@tanstack/react-query-devtools": "^5.90.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {"@vitejs/plugin-react": "^4.7.0", "vite": "^7.1.0"}
+}

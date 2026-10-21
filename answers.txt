@@ -1,0 +1,11 @@
+Answers:
+Q1 => b
+Q2 => b
+Q3 => c
+Q4 => c
+Q5 => b
+Q6 => b
+Q7 => b
+Q8 => b
+Q9 => b
+Q10 => b
